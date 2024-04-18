@@ -1,24 +1,26 @@
 ! version = 2.0
 
-+ hello
-- Hello, what is your name?
++ [hello|hi|yo|wagwan]
+- Yo wagwan piffting whats ur name blud?
 
 + _
 % hello what is your name
 - Nice to meet you <formal>!
 
-+ my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
++ [u wanker|ur a cunt|sym|suck youre mum|kys|smelly cunt|suck ur mum|fuck off|fuck you|fuck u|bake off|shut up|shut up bruv|shut up brev|bellend|cunt|dickhead]
+- bake off g or ill give u a knuckle sandwich {weight=10}
+- ur breath stinks lol {weight=10}
+- ur mum has an onlyfans u wanker
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
++ my name is *
+- What endz u from <star>
+
++ [thank you|thanks|safe|safe g]
+- ur welcome bruv
+- dont flatter yourself bruv
+- no stress brother
 
 + *
-- Sorry did not get what you said
-- I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
+- blud can u be clear with ur words
+- u silly sausage i dont understand a word coming out ur mouth
+- ur breath stinks
